@@ -1,3 +1,4 @@
+![logo](https://github.com/Pranyl1basnyat/Pranyl1basnyat/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Pranil Basnyat</h1>
 <h3 align="center">🚀 Passionate Software, App, and ML Engineer from Nepal 🇳🇵</h3>
 
